@@ -26,11 +26,11 @@
 
 #menu ul li{
 	display: inline-block;
-	margin-right:10%;
-	margin-left: 10px;
+	margin-right:1%;
+	margin-left: 150px;
 }
 a{
-	text-decoration: none;
+	text-decoration:none;
 	color: rgb(253, 253, 253);
 }
 #conteudohome{
@@ -155,27 +155,60 @@ a{
 	background-color: rgb(55, 119, 12);
 	float: left;
 }
+
 #rodapehome2{
 	width: 30%;
 	height: 23%;
 	background-color:rgb(55,119,12);
 	float:left;
 }
+
 #rodapehome3{
 	width: 43%;
 	height: 23%;
 	background-color: rgb(55, 119, 12);
 	float: left;
 }
+
 #rodapepragas{
-	width: 100%;
+	width: 27%;
 	height: 20%;
 	background-color: rgb(55, 119, 12);
 	float: left;
 }
+
+#rodapepragas2{
+	width: 30%;
+	height: 20%;
+	background-color: rgb(55, 119, 12);
+	float: left;	
+}
+
+#rodapepragas3{
+	width: 43%;
+	height: 20%;
+	background-color: rgb(55, 119, 12);
+	float: left;
+}
+
 #rodapecontato{
-	width: 100%;
-	height: 29%;
+	width: 27%;
+	height: 35%;
+	background-color: rgb(55, 119, 12);
+	float: left;
+}
+
+#rodapecontato2{
+	width: 30%;
+	height: 35%;
+	background-color:rgb(55,119,12);
+	float:left;
+
+}
+
+#rodapecontato3{
+	width: 43%;
+	height: 35%;
 	background-color: rgb(55, 119, 12);
 	float: left;
 }

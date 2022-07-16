@@ -2,24 +2,28 @@
 	margin: 0;
 	padding: 0;
 }
+
 #cabecalho{
 	width: 100%;
 	height: 10%;
 	background-color: rgb(254, 237, 203);
 	float: left;
 }
+
 #titulo{
 	color:rgb(0, 0, 0);
 	font-family: "Arial";
 	font-size: 50px;
 	text-align:center;
 }
+
 #menu{
 	background-color: rgb(55, 119, 12);
 	color: rgb(255, 255, 255);
 	font-family: "arial";
 	font-size: 30px;
 }
+
 #menu ul{
 	list-style: none;
 }
@@ -29,28 +33,40 @@
 	margin-right:1%;
 	margin-left: 150px;
 }
+
 a{
 	text-decoration:none;
 	color: rgb(253, 253, 253);
 }
-#conteudohome{
+
+#conteudo-home{
 	width: 100%;
 	height: 130%;
 	background-color: rgb(254,237, 206);
 	float: left;
 }
+
 #conteudo{
 	width: 100%;
-	height: 160%;
+	height: 158%;
 	background-color: rgb(254,237, 206);
 	float: left;
 }
+
 #conteudoNos{
 	width: 100%;
 	height: 90%;
 	background-color: rgb(254,237,206);
 	float: left;
 }
+
+#conteudopesquisa{
+	width: 100%;
+	height: 160%;
+	background-color: rgb(254,237, 206);
+	float: left;
+}
+
 #home-beta{
 	width: 1000px;
 	height: 35px;
@@ -59,23 +75,35 @@ a{
 	margin-top: 25px;
 	float: left;
 }
+#funcao{
+	width: 1300px;
+	height: 125px;
+	background-color:#37770C;
+	margin-left: 5px;
+	margin-top: 25px;
+	float: left;
+}
+
 #titulo_beta{
 	font-family: "arial";
 	font-size: 30px;
 	color: rgb(255, 255, 255);
 	text-align: center;
 }
+
 #imagem1{
 	width: 300px;
 	height: 250px;
 	float: left;
 }
+
 #titulo_centro{
 	font-family: "Arial";
 	font-size: 20px;
 	color: black;
 	text-align: center;
 }
+
 #esquerda{
 	width: 300px;
 	height: 400px;
@@ -84,6 +112,7 @@ a{
 	margin-top: 30px;
 	float: left;
 }
+
 #centro{
 	width: 300px;
 	height: 400px;
@@ -92,6 +121,7 @@ a{
 	margin-top: 30px;
 	float: left;
 }
+
 #direita{
 	width: 300px;
 	height: 400px;
@@ -100,7 +130,8 @@ a{
 	margin-top: 30px;
 	float: left;
 }
-#baixo{
+
+#baixo1{
 	width: 300px;
 	height: 400px;
 	background-color: white;
@@ -108,6 +139,7 @@ a{
 	margin-top:100px;
 	float:left
 }
+
 #baixo2{
 	width: 300px;
 	height: 400px;
@@ -116,6 +148,7 @@ a{
 	margin-top:100px;
 	float:left
 }
+
 #baixo3{
 	width: 300px;
 	height: 400px;
@@ -124,6 +157,7 @@ a{
 	margin-top: 100px;
 	Float: left;
 }
+
 #baixo4{
 	width: 300px;
 	height: 400px;
@@ -132,6 +166,7 @@ a{
 	margin-top: 100px;
 	float: left;
 }
+
 #baixo5{
 	width: 300px;
 	height: 400px;
@@ -140,6 +175,7 @@ a{
 	margin-top: 100px;
 	float: left;
 }
+
 #baixo6{
 	width: 300px;
 	height: 400px;
@@ -149,24 +185,120 @@ a{
 	float: left;
 }
 
-#rodapehome{
+#igm2{
+	width: 325px;
+	height: 250px;
+	float: left;
+}
+
+#ED{
+	width: 325px;
+	height: 400px;
+	background-color: white;
+	margin-left: 15px;
+	margin-top: 30px;
+	float: left;
+}
+
+#CT{
+	width: 325px;
+	height: 400px;
+	background-color: white;
+	margin-left: 125px;
+	margin-top: 30px;
+	float: left;
+}
+
+#DR{
+	width: 325px;
+	height: 400px;
+	background-color: white;
+	margin-left: 175px;
+	margin-top: 30px;
+	float: left;
+}
+
+#BX1{
+	width: 300px;
+	height: 400px;
+	background-color: white;
+	margin-left:15px;
+	margin-top:100px;
+	float:left
+}
+
+#BX2{
+	width: 300px;
+	height: 400px;
+	background-color: white;
+	margin-left: 150px;
+	margin-top:100px;
+	float:left
+}
+
+#BX3{
+	width: 300px;
+	height: 400px;
+	background-color:white;
+	margin-left: 200px;
+	margin-top: 100px;
+	Float: left;
+}
+
+#BX4{
+	width: 300px;
+	height: 400px;
+	background-color: white;
+	margin-left: 15px;
+	margin-top: 100px;
+	float: left;
+}
+
+#BX5{
+	width: 300px;
+	height: 400px;
+	background-color: white;
+	margin-left:150px;
+	margin-top: 100px;
+	float: left;
+}
+
+#BX6{
+	width: 300px;
+	height: 400px;
+	background-color: white;
+	margin-left: 200px;
+	margin-top: 100px;
+	float: left;
+}
+
+#rodape-home{
 	width: 27%;
 	height: 23%;
 	background-color: rgb(55, 119, 12);
 	float: left;
 }
 
-#rodapehome2{
+#rodape-home-2{
 	width: 30%;
 	height: 23%;
 	background-color:rgb(55,119,12);
 	float:left;
 }
 
-#rodapehome3{
+#rodape-home-3{
 	width: 43%;
 	height: 23%;
 	background-color: rgb(55, 119, 12);
+	float: left;
+}
+
+#maispragas2{
+	width: 1000px;
+	height: 35px;
+	background-color:#37770C;
+	margin-left: 150px;
+	margin-top: 50px;
 	float: left;
 }
 
@@ -208,6 +340,13 @@ a{
 
 #rodapecontato3{
 	width: 43%;
+	height: 35%;
+	background-color: rgb(55, 119, 12);
+	float: left;
+}
+
+#rodape-praga-completa{
+	width: 27%;
 	height: 35%;
 	background-color: rgb(55, 119, 12);
 	float: left;
